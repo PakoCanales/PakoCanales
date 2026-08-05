@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./assets/banner-fc71.png"
+       alt="Banner FC71 Analytics"
+       width="100%">
+</p>
 ## Hi there 👋
 
 <!--
