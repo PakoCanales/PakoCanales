@@ -4,19 +4,31 @@
        width="100%">
 </p>
 
-## Hola 👋
+## Sobre mí
 
-<!--
-**PakoCanales/PakoCanales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy abogado y consultor TI, fundador de FC71 Analytics. Desarrollo soluciones
+con Python, FastAPI, Flutter, PostgreSQL e inteligencia artificial aplicada.
 
-Here are some ideas to get you started:
+## Áreas de trabajo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Automatización de procesos
+- Inteligencia artificial aplicada
+- Analítica de datos
+- Desarrollo de aplicaciones
+- Consultoría tecnológica y legal
+
+## Tecnologías
+
+Python · FastAPI · PostgreSQL · Flutter · GitHub · IA
+
+## Proyectos principales
+
+- FC71 Analytics
+- IDTAP365
+- AvaluoInm24
+- FC71 Shop
+- Centro de Inteligencia Operativa FC71
+
+## Contacto
+
+🌐 https://fc71analytics.site/
